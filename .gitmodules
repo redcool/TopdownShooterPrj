@@ -1,0 +1,3 @@
+[submodule "Assets/PowerUtilities"]
+	path = Assets/PowerUtilities
+	url = https://github.com/redcool/PowerUtilities.git
